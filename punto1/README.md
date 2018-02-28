@@ -1,6 +1,7 @@
 salidas del punto 1
 
 -- iteracion 1 n=4--
+
 la suma de la sub-matriz triangular superior es:15
 
 el tiempo de ejcucion es de 7.10563714392265e-05  segundos
@@ -9,6 +10,7 @@ la cantidad de operaciones es: 10.0
 
 
 -- iteracion 2 n=5--
+
 la suma de la sub-matriz triangular superior es:24
 
 el tiempo de ejcucion es de 3.158060951591324e-05  segundos
@@ -17,6 +19,7 @@ la cantidad de operaciones es: 15.0
 
 
 -- iteracion 3  n=6--
+
 la suma de la sub-matriz triangular superior es:35
 
 el tiempo de ejcucion es de 3.0396336683224945e-05  segundos
