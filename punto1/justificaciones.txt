@@ -5,9 +5,7 @@ en cuenta que por cada fila de numeros sumada, la siguiente fila tendra un valor
 tiende a: 
 f(n)=n*(n+1)/2
 
-1.3) dado que se esta haciendo una sumatoria de numeros en un triangulo con base igual a la altura podemos ver que el la O(n) tiende a ser n*n/2 por tanto O(n) es de n^2
+1.3) dado que se esta haciendo una sumatoria de numeros en un triangulo con base igual a la altura podemos ver que el la cantidad de operaciones es (n^2 +n)/2 donde al quitar las constantes O(n) es (n^2 + n), ahora podemos tomar el peor caso donde O(n) tiende a n^2 
 
 
-
-solucion al segundo
 
